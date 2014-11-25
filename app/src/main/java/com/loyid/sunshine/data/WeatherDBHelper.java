@@ -11,7 +11,9 @@ import com.loyid.sunshine.data.WeatherContract.WeatherEntry;
  * Created by jkim0 on 14. 11. 21.
  */
 public class WeatherDBHelper extends SQLiteOpenHelper {
+    // If you change the database schema, you must increment the database version.
     private static final int DATABASE_VERSION = 1;
+
     public static final String DATABASE_NAME = "weather.db";
 
     public WeatherDBHelper(Context context) {
