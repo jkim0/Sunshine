@@ -2,6 +2,13 @@
 <items version="2" >
 
     <item
+        jar="/home/jkim0/workspace/loyid/Sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/home/jkim0/workspace/loyid/Sunshine/app/build/intermediates/pre-dexed/debug/classes-7d5d260b5420cd030dcccbe6cc0d300d0dc9ac33.jar" />
+    </item>
+    <item
         jar="/home/jkim0/workspace/loyid/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
         jumboMode="false"
         revision="21.1.0"
@@ -21,13 +28,6 @@
         revision="21.1.0"
         sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
         <dex dex="/home/jkim0/workspace/loyid/Sunshine/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-ef2761bf5c3817d35601ce70f6490bc58a088f9c.jar" />
-    </item>
-    <item
-        jar="/home/jkim0/workspace/loyid/Sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
-        jumboMode="false"
-        revision="21.1.0"
-        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
-        <dex dex="/home/jkim0/workspace/loyid/Sunshine/app/build/intermediates/pre-dexed/debug/classes-7d5d260b5420cd030dcccbe6cc0d300d0dc9ac33.jar" />
     </item>
 
 </items>
